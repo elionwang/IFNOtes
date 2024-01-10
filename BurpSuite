@@ -1,0 +1,13 @@
+Burp Suite
+
+Burp Suite kan veel informatie over een website weergeven, de website tracken, informatie aanpassen, bepaalde requests uitvoeren.
+> Open Burp Suite
+> Next 
+> Start Burp
+
+> Target, Open Browser
+
+Geeft HTML code weer.
+Je kan de communicatie aan de achterkant bekijken.
+Base64 = vaak = op het einde
+Cipher Identifier (dcode.fr)
